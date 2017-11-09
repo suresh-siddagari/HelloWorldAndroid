@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "398279042287",
+    "firebase_url": "https://asthatuner-dev-push-notify.firebaseio.com",
+    "project_id": "asthatuner-dev-push-notify",
+    "storage_bucket": "asthatuner-dev-push-notify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398279042287:android:9b70390461549125",
+        "android_client_info": {
+          "package_name": "se.kr9.suresh.hellowordandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398279042287-knvc0kkr2e6sk3j1sjls09pr0hqmg0tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.kr9.suresh.hellowordandroid",
+            "certificate_hash": "81ec85da16148376c751faa67be5d5030f334788"
+          }
+        },
+        {
+          "client_id": "398279042287-bjhn44huthccj5vvhhjiu9jvkaf8a7q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARBwz9iFk4WhRFcWB8JXkjd65v52QzqGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398279042287-bjhn44huthccj5vvhhjiu9jvkaf8a7q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
